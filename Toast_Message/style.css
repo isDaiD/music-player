@@ -12,12 +12,11 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    background-color: #fff; 
+    background-color: #125a62;
     border-radius: 4px;
     padding: 15px 0;
     min-width: 300px;
     max-width: 450px;
-    border-left: 4px solid;
     box-shadow: 0 5px 8px rgba(0, 0, 0, 0.08);
     transition: all linear 0.3s;
 }
@@ -91,14 +90,14 @@
 
 .toast__msg {
     font-size: 18px;
-    color: #888;
+    color: #ccc;
     margin-top: 0;
     line-height: 1.5;
 }
 
 .toast__close {
     font-size: 20px;
-    color: rgba(0, 0, 0, 0.3);
+    color: #ccc;
     cursor: pointer;
 }
 

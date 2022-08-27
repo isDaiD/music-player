@@ -238,7 +238,7 @@ Music player là một trang web được tạo ra trong quá trình nghiên c�
     {
         "id": "33",
         "name": "Đếm Cừu",
-        "singer": "Sanhara x Kay Trần",
+        "singer": "SAN HARA x Kay Trần",
         "path": "./asset/music/DemCuu.mp3",
         "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/9/6/d/7/96d7b4cb72085cfdebf5d1d3e33f2682.jpg"
     },

@@ -226,7 +226,7 @@ Music player là một trang web được tạo ra trong quá trình nghiên c�
         "name": "Anh Ơi Ở Lại",
         "singer": "Chi Pu x Đạt G",
         "path": "./asset/music/AnhOiOLai.mp3",
-        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/1/d/9/1/1d91b8c642fed0899337228b0dbb9e1f.jpg"
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/3/f/b/e/3fbe71079a3c00cfeffc92de527571c7.jpg"
     },
     {
         "id": "32",

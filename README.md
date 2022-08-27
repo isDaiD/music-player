@@ -245,7 +245,7 @@ Music player là một trang web được tạo ra trong quá trình nghiên c�
     {
         "id": "34",
         "name": "Hông Về Tình Yêu",
-        "singer": "Khôi Vũ",
+        "singer": "Khoi Vu",
         "path": "./asset/music/HongVeTinhYeu.mp3",
         "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/f/d/4/b/fd4b94ba19019c42f7af374a8ff87816.jpg"
     },

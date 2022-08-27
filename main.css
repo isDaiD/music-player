@@ -104,12 +104,14 @@ header h2 {
     .control .btn:hover {
         transition: all 0.1s linear;
         transform: scale(1.2);
+        cursor: pointer;
     }
 
     .control .btn-prev:hover,
     .control .btn-repeat:hover,
     .control .btn-next:hover,
     .control .btn-random:hover {
+        cursor: pointer;
         transition: all 0.3s linear;
         transform: scale(1.4);
     }
@@ -123,6 +125,7 @@ header h2 {
         background-color: #487378;
         transition: all 0.3s linear;
         transform: scale(1.05);
+        cursor: pointer;
     }
 
     .song:hover .option,

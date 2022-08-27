@@ -29,7 +29,7 @@
     },
     {
         "id": "5",
-        "name": "Vaicaunoicokhiennguoithaydoi",
+        "name": "Vài Câu Nói Có Khiến Người Thay Đổi",
         "singer": "Grey D x Tlinh",
         "path": "./asset/music/VaiCauNoiCoKhienNguoiThayDoi.mp3",
         "image": "https://photo-resize-zmp3.zmdcdn.me/w320_r1x1_webp/cover/4/5/1/e/451edeb56e86f4128d78323957b610ea.jpg"
@@ -148,10 +148,10 @@
     },
     {
         "id": "22",
-        "name": "Cơn Mưa Cuối",
-        "singer": "JustaTee x Binz",
-        "path": "./asset/music/ConMuaCuoi.mp3",
-        "image": "https://i.ytimg.com/vi/-esiEI4HTdk/0.jpg"
+        "name": "Anh Không Thề Gì Đâu Anh Làm",
+        "singer": "Phúc Du",
+        "path": "./asset/music/AnhKhongTheGiDauAnhLam.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/6/3/7/4/6374a9922ae3e9bc43d5913f6ae350a6.jpg"
     },
     {
         "id": "23",
@@ -183,19 +183,132 @@
     },
     {
         "id": "27",
-        "name": "I DO",
-        "singer": "911",
-        "path": "./asset/music/IDo911.mp3",
-        "image": "https://i.ytimg.com/vi/gBQSL84bKYw/0.jpg"
+        "name": "Một Nhà",
+        "singer": "Da LAB x DSmall Tropical Remix",
+        "path": "./asset/music/MotNha.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/avatars/6/8/686e1c8ab25b2f0333472882148a2c44_1479549953.jpg"
     },
     {
         "id": "28",
-        "name": "MY LOVE",
-        "singer": "Westlife",
-        "path": "./asset/music/MyLove.mp3",
-        "image": "https://i.ytimg.com/vi/ulOb9gIGGd0/0.jpg"
+        "name": "Sáng Mắt Chưa",
+        "singer": "Trúc Nhân",
+        "path": "./asset/music/SangMatChua.mp3",
+        "image": "https://i.ytimg.com/vi/rDhx4ejrPPA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxOE9n35itKWfXLGLKZlDfJlJi_w"
+    },
+    {
+        "id": "29",
+        "name": "Và Thế Là Hết",
+        "singer": "Chillies",
+        "path": "./asset/music/VaTheLaHet.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_webp/avatars/6/9/a/3/69a361e256e01ea0c929c59a077cd039.jpg"
+    },
+    {
+        "id": "30",
+        "name": "Thắc Mắc",
+        "singer": "Thịnh Suy",
+        "path": "./asset/music/ThacMac.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/1/d/9/1/1d91b8c642fed0899337228b0dbb9e1f.jpg"
+    },
+    {
+        "id": "31",
+        "name": "Anh Ơi Ở Lại",
+        "singer": "Chi Pu x Đạt G",
+        "path": "./asset/music/AnhOiOLai.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/1/d/9/1/1d91b8c642fed0899337228b0dbb9e1f.jpg"
+    },
+    {
+        "id": "32",
+        "name": "Đẹp Nhất Là Em",
+        "singer": "Soobin x Jiyeon",
+        "path": "./asset/music/DepNhatLaEm.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/f/3/c/0/f3c092b14ba723c36842f955bbc9c507.jpg"
+    },
+    {
+        "id": "33",
+        "name": "Đếm Cừu",
+        "singer": "Sanhara x Kay Trần",
+        "path": "./asset/music/DemCuu.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/9/6/d/7/96d7b4cb72085cfdebf5d1d3e33f2682.jpg"
+    },
+    {
+        "id": "34",
+        "name": "Hông Về Tình Yêu",
+        "singer": "Khôi Vũ",
+        "path": "./asset/music/HongVeTinhYeu.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/f/d/4/b/fd4b94ba19019c42f7af374a8ff87816.jpg"
+    },
+    {
+        "id": "35",
+        "name": "Bánh Mì Không",
+        "singer": "ĐạtG x Du Uyên",
+        "path": "./asset/music/BanhMiKhong.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/2/9/0/6/2906681d4b764cd4677342b66813f25d.jpg"
+    },
+    {
+        "id": "36",
+        "name": "Yêu Anh Em Nhé",
+        "singer": "HuyR x Tùng Viu",
+        "path": "./asset/music/YeuAnhEmNhe.mp3",
+        "image": "https://i.ytimg.com/vi/JQ9bET0lq4w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBudlUmAonK4Aanz2X38tYsqPyWwQ"
+    },
+    {
+        "id": "37",
+        "name": "Em Không Hiểu",
+        "singer": "Changg x Minh Huy",
+        "path": "./asset/music/EmKhongHieu.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/f/3/0/6/f30668fc33a808bed835240a225c426c.jpg"
+    },
+    {
+        "id": "38",
+        "name": "Thay Tôi Yêu Cô Ấy",
+        "singer": "Thanh Hưng",
+        "path": "./asset/music/ThayToiYeuCoAy.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/2/b/e/1/2be1ea8657bb685f09d5764f2378264f.jpg"
+    },
+    {
+        "id": "39",
+        "name": "Hết Thương Cạn Nhớ",
+        "singer": "Đức Phúc",
+        "path": "./asset/music/HetThuongCanNho.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/9/7/f/a/97fa122b55eefd723d7b97f887ee8786.jpg"
+    },
+    {
+        "id": "40",
+        "name": "Anh Đánh Rơi Người Yêu Này",
+        "singer": "AMEE x Andiez",
+        "path": "./asset/music/AnhDanhRoiNguoiYeuNay.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/3/0/8/c/308c5809bbfa86de59709090245b9819.jpg"
+    },
+    {
+        "id": "41",
+        "name": "Cô Gái Vàng",
+        "singer": "HuyR x Tùng Viu",
+        "path": "./asset/music/CoGaiVang.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/1/b/6/a/1b6a724e5d7b0a541797cda823239925.jpg"
+    },
+    {
+        "id": "42",
+        "name": "Anh Thề Đấy",
+        "singer": "Thanh Hưng",
+        "path": "./asset/music/AnhTheDay.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/a/9/4/d/a94d404a69d40e168ca844460c729aa5.jpg"
+    },
+    {
+        "id": "43",
+        "name": "Thằng Điên",
+        "singer": "Phương Ly x JustaTee",
+        "path": "./asset/music/ThangDien.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/9/d/5/c/9d5c56a277a06a48ec7956a4fd17e4c1.jpg"
+    },
+    {
+        "id": "44",
+        "name": "Mặt Mộc",
+        "singer": "Vanh x Phạm Nguyên Ngọc",
+        "path": "./asset/music/MatMoc.mp3",
+        "image": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_webp/cover/5/7/e/8/57e8551b2dae93bdcc8c8fcb1efa42d2.jpg"
     }
 ]
+
 
 // songs: [
 //     {

@@ -242,6 +242,10 @@ header h2 {
 .song .title {
     font-size: 18px;
     color: var(--text-color);
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
 }
 
 .song .author {
